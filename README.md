@@ -6,8 +6,8 @@
 
 ## 👥 Anggota Kelompok 6
 - Muhammad Faisal A (152023100)
-- Samuel Tambunan (152023xxx)
-- Santana Alfandi (152023xxx)
+- Samuel Tambunan (152023108)
+- Santana Alfandi (152023204)
 
 Mata Kuliah: Pengolahan Citra Digital  
 Semester: Genap 2024/2025  
